@@ -1,0 +1,10 @@
+
+    body {
+        background-image: url("an.png");
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: scroll;
+      }
+
+
+
